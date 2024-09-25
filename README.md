@@ -10,6 +10,7 @@ Components:
   - 2 2 28BYJ-48 stepper motors
   - 2 ULN2003 stepper motor drivers
   - 1 joystick
+  - 3 10kΩ resistors 
   - 1 ADS7830
   - 1 breadboard
   - Lots of male-to-male and female-to-male jumper wires
